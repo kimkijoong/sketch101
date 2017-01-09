@@ -26,8 +26,8 @@
 - https://www.vobour.com/book/view/L5mBCot7KyvgLv8cJ
 - https://www.vobour.com/book/view/Cvu3hhwm8toAjzMsM
 
-- 한글 웹폰트 글꼴보기짐
-- http://youngkang.me/hangul-webfont-showcase/
+
+- [한글 웹폰트 글꼴보기집](http://youngkang.me/hangul-webfont-showcase/)
 
 - 구글 폰트
 - https://fonts.google.com/
