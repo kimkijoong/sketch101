@@ -14,6 +14,7 @@
 - [스케치 튜토리얼 2편(한글)](https://www.vobour.com/book/view/Cvu3hhwm8toAjzMsM)
 - [한글 웹폰트 글꼴보기집](http://youngkang.me/hangul-webfont-showcase/)
 - [구글 폰트](https://fonts.google.com/)
+- [스케치 4.1 버전 활용 (미디엄)](https://goo.gl/a3Bkhy)
 
 ### 플러그인 & 프로그램
 
